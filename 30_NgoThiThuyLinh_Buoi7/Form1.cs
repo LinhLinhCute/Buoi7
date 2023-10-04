@@ -39,7 +39,7 @@ namespace _30_NgoThiThuyLinh_Buoi7
             else
             {
                 sinhvien.Add(textBox1.Text);
-                MessageBox.Show("Them thanh cong list!", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show("Them thanh cong list ne!", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
             
             
