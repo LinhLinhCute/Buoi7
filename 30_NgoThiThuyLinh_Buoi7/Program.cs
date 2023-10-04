@@ -16,7 +16,7 @@ namespace _30_NgoThiThuyLinh_Buoi7
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Bai2_Trang41());
         }
     }
 }
